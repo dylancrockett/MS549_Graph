@@ -1,0 +1,4 @@
+uuid~=1.30
+networkx~=2.8.4
+matplotlib~=3.5.2
+consolemenu
